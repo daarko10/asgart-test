@@ -16,7 +16,7 @@ def route2():
 
 @app.get('/dago')
 def route2():
-    return 'dago is the best ever'
+    return 'dago is the worst ever'
 
 
 if __name__ == '__main__':
